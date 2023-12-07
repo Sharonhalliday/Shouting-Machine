@@ -1,0 +1,30 @@
+#resultContainer{
+   display: none;
+    padding-top: 10px;
+}
+#anything{
+  width: 300px
+   
+}
+.card{
+ padding-left: 200px;
+  margin-top: 50px; 
+}
+#modify{
+   width: 800px;
+   height: 300px;
+   margin-left: 220px;
+   background-color:rgb(248, 132, 90);
+}
+#edit{
+   margin-top: 40px;
+   font-weight: bold;
+  
+}
+#edit2{
+   padding-top: 10px;
+}
+#edit3{
+   padding-top: 20px;
+   color:white;
+}
